@@ -4,3 +4,5 @@ info_user = {
     "address": "HN",
     22:33,
 }
+
+a = 10
